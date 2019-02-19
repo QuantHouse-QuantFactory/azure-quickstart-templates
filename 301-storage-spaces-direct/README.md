@@ -1,4 +1,4 @@
-#Fork of Azure templates
+# Fork of Azure templates
 <a href="https://github.com/QuantHouse-QuantFactory/Azure/tree/master/active-directory-new-domain-ha-2-dc">this template</a>
 
 # Create a Storage Spaces Direct (S2D) Scale-Out File Server (SOFS) Cluster with Windows Server 2016 on an existing VNET
