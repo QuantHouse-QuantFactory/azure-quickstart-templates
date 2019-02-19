@@ -1,4 +1,4 @@
-#Fork of Azure templates
+# Fork of Azure templates
 <a href="https://github.com/QuantHouse-QuantFactory/Azure/tree/master/">orignal repository</a>
 
 # Azure Resource Manager QuickStart Templates
