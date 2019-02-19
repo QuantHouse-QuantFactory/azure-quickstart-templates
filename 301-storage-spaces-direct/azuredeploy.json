@@ -113,7 +113,7 @@
       "metadata": {
         "description": "Location of resources that the script is dependent on such as linked templates and DSC modules"
       },
-      "defaultValue": "https://github.com/QuantHouse-QuantFactory/azure-quickstart-templates/tree/master/301-storage-spaces-direct"
+      "defaultValue": "https://raw.githubusercontent.com/QuantHouse-QuantFactory/azure-quickstart-templates/master/301-storage-spaces-direct/"
     },
     "_artifactsLocationSasToken": {
       "type": "securestring",
