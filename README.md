@@ -1,3 +1,6 @@
+#Fork of Azure templates
+<a href="https://github.com/QuantHouse-QuantFactory/Azure/tree/master/">orignal repository</a>
+
 # Azure Resource Manager QuickStart Templates
 [![Travis](https://img.shields.io/travis/Azure/azure-quickstart-templates/master.svg?label=travis&style=flat-square)](https://travis-ci.org/Azure/azure-quickstart-templates)
 
